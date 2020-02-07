@@ -2,7 +2,7 @@
 layout: post
 title:  "Vue-CLI를 이용하여 Vue 프로젝트를 Github Pages에 호스팅하기"
 date:   2020-01-15 18:00:00 +0900
-categories: blog
+categories: vue
 ---
 
 # 배포파일 생성하기

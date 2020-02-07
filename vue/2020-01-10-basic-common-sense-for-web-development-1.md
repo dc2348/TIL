@@ -2,7 +2,7 @@
 layout: post
 title:  "웹 개발을 위한 기초 상식"
 date:   2020-01-10 10:00:00 +0900
-categories: blog
+categories: web
 ---
 
 # :gem: 인터넷은 어떻게 동작하는가?

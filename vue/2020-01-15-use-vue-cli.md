@@ -2,7 +2,7 @@
 layout: post
 title:  "Vue-CLI를 이용하여 Vue 프로젝트 생성 및 GitHub에 Commit하기"
 date:   2020-01-15 16:00:00 +0900
-categories: blog
+categories: vue
 ---
 
 

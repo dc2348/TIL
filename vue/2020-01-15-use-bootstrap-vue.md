@@ -2,7 +2,7 @@
 layout: post
 title:  "Vue 프로젝트에 Bootstrap 사용하기"
 date:   2020-01-16 15:00:00 +0900
-categories: blog
+categories: vue
 ---
 
 # 반응형 뷰포트 메타 태그(Responsive meta tag)
