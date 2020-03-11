@@ -1,16 +1,3 @@
 # Today I learned
 
-## 20200102
-
-### Javascript
-
-Hello!
-
-* javascript
-* css3
-* html
-
-
-## 20200102
-* class
-* function
+오늘 공부한 것에 대한 메모입니다.
